@@ -1,5 +1,4 @@
-# SVM sample program
+# binary classification SVM sample program
 
-* kosakensho.py
-
-* write_csv_header.py
+1. pip install -r pip-install-list.txt
+2. python svm_exec.py
